@@ -1,2 +1,2 @@
 # Jogo-Dinossauro
-Jogo do dinossauro Bootcamp Orbi
+Jogo do dinossauro Bootcamp Orbi web games
